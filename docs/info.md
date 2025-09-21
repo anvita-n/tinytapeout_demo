@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Takes in two inputs, puts them through an AND gate, and lights up an LED accordingly
 
 ## How to test
 
-Explain how to use your project
+Trigger the inputs
 
 ## External hardware
 
